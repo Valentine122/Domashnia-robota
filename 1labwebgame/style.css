@@ -1,0 +1,9 @@
+b{
+    color: red;
+    background-color: aqua;
+    margin: 0px 0px 0px 20px;
+}
+.image{
+    width: 120px;
+	cursor: pointer;
+}
